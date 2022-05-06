@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Assignment</string>
+    <string name="app_header">" Journal de bord de moka"</string>
+    <string name="app_desc">" Tenez un journal personnel"</string>
+    <string name="app_desc2">de votre café préféré</string>
+    <string name="btn1">MENU</string>
+    <string name="menu_text">Page d\'accueil</string>
+    <string name="profile_text">" Profil"</string>
+    <string name="cafe_text">Café</string>
+    <string name="lang_text">Langages</string>
+    <string name="websearch_text">Recherche Internet</string>
+    <string name="profile_info">" Entrez vos informations"</string>
+    <string name="editName">" Entrez le nom"</string>
+    <string name="editUsername">" Saisissez votre nom d'utilisateur..."</string>
+    <string name="editPassword">" Entrer le mot de passe..."</string>
+    <string name="editEmail">" Entrez l'email"</string>
+    <string name="btn3">" Soumettre"</string>
+    <string name="langHeader">Langages</string>
+    <string name="English">Anglais</string>
+    <string name="French">Francais</string>
+    <string name="German">Allemande</string>
+    <string name="webHeader">Rechercher sur le Web</string>
+    <string name="search">Rechercher des cafés</string>
+    <string name="favourite">Ajouter des favoris</string>
+    <string name="add">Ajouter aux Favoris</string>
+</resources>

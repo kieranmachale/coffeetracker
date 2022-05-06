@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Assignment</string>
+    <string name="app_header">" Mokka Logbuch"</string>
+    <string name="app_desc">" Führen Sie ein persönliches Protokoll"</string>
+    <string name="app_desc2">" Ihre Lieblingscafés"</string>
+    <string name="btn1">" Speisekarte"</string>
+    <string name="menu_text">" Hauptseite"</string>
+    <string name="profile_text">" Profil"</string>
+    <string name="cafe_text">Cafe</string>
+    <string name="lang_text">" Sprachen"</string>
+    <string name="websearch_text">" Web-Suche"</string>
+    <string name="profile_info">" Geben Sie Ihre Anmeldeinformationen ein"</string>
+    <string name="editName">" Name eingeben..."</string>
+    <string name="editUsername">" Geben Sie den Benutzernamen ein..."</string>
+    <string name="editPassword">" Passwort eingeben..."</string>
+    <string name="editEmail">" Email eingeben"</string>
+    <string name="btn3">" Einreichen"</string>
+    <string name="langHeader">Sprachen</string>
+    <string name="English">Englisch</string>
+    <string name="German">Deutsche</string>
+    <string name="French">" Französisch"</string>
+    <string name="webHeader">" Durchsuche das Web"</string>
+    <string name="search">" Suche nach Kaffeehäusern"</string>
+    <string name="favourite">Favoriten hinzufügen</string>
+    <string name="add">" Zu Favoriten hinzufügen"</string>
+</resources>

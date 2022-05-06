@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My Assignment</string>
+
+    <!-- String arrays for the recycler view -->
+    <string-array name="cafe_shops">
+        <item>AMT Coffee</item>
+        <item>Aroma</item>
+        <item>Caribou Coffee</item>
+        <item>Costa</item>
+        <item>Insomnia</item>
+        <item>Luckin Coffee</item>
+        <item>Cafe Nero</item>
+        <item>Port City Java</item>
+        <item>Starbucks</item>
+        <item>Tchibo</item>
+        <item>Tim Hortons</item>
+        <item>Woods Coffee Chain</item>
+    </string-array>
+    <string-array name="shop_description">
+        <item>Founded in 1993, London, United Kingdom</item>
+        <item>Founded in 1991, United States</item>
+        <item>Founded in 1992, United States</item>
+        <item>Founded in 1971, London, United Kingdom</item>
+        <item>Founded in 1997, Dublin, Ireland</item>
+        <item>Founded in 2017, Xiamen, China</item>
+        <item>Founded in 1997, London, United Kingdom</item>
+        <item>Founded in 1995, North Carolina, United States</item>
+        <item>Founded in 1971, Washington, United States</item>
+        <item>Founded in 2001, London, United Kingdom</item>
+        <item>Founded in 1964, Oakville, Canada</item>
+        <item>Founded in 2002, Washington, United States</item>
+    </string-array>
+
+    <!-- String arrays for favourites -->
+    <string-array name="fav_list">
+        <item></item>
+    </string-array>
+
+    <!-- Strings for view id's and descriptions -->
+    <string name="content_desc" translatable="false">Image view for the apps logo</string>
+    <string name="app_header">Mocha Logbook</string>
+    <string name="app_desc">Keep a personal log</string>
+    <string name="app_desc2">of your favourite cafes</string>
+    <string name="btn1">MENU</string>
+    <string name="menu_text">Main Page</string>
+    <string name="profileImgDesc" translatable="false">logo for profile</string>
+    <string name="profile_text">Profile</string>
+    <string name="cafe_text">Cafe</string>
+    <string name="cafeImgDesc" translatable="false">logo for cafe</string>
+    <string name="langImgDesc" translatable="false">logo for languages</string>
+    <string name="webImgDesc" translatable="false">logo for web search</string>
+    <string name="lang_text">Languages</string>
+    <string name="websearch_text">Web Search</string>
+    <string name="profile_info">Enter your credentials</string>
+    <string name="editName">Enter name…</string>
+    <string name="editUsername">Enter username…</string>
+    <string name="editPassword">Enter password…</string>
+    <string name="editEmail">Enter email…</string>
+    <string name="btn3">Submit</string>
+    <string name="langHeader">Languages</string>
+    <string name="English">English</string>
+    <string name="French">French</string>
+    <string name="German">German</string>
+    <string name="webHeader">Search the Web</string>
+    <string name="search">Search for coffeehouses…</string>
+    <string name="favourite">Add favourites</string>
+    <string name="add">Add to Favourites</string>
+</resources>
